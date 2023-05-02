@@ -72,3 +72,6 @@ Sijie Yan     : ys016@ie.cuhk.edu.hk
 Jingbo Wang   : wangjingbo1219@foxmail.com
 Yuanjun Xiong : bitxiong@gmail.com
 ```
+## Trouble Shooting
+[python] opencv install error ModuleNotFoundError: No module named ‘skbuild’
+https://maduinos.blogspot.com/2021/10/python-opencv-modulenotfounderror-no.html
